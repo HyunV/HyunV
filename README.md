@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=#ADD8E6&text=Welcome%20to%20Junho's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=65&height=250)
 
-<h3 align="center">Introduction👏</h3>
+<h3 align="center">Hyun's Introduction👏</h3>
 <hr>
 
 <h3 align="center">사용자 모두에게 즐거움을 전달하는 개발자가 되고 싶습니다.😀</h3>
