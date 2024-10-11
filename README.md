@@ -7,7 +7,7 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limjongheok&layout=compact" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunv&layout=compact" height="200"/>
 
 ![Hyun's github stats](https://github-readme-stats.vercel.app/api?username=hyunv&show_icons=true&theme=vue)
 
