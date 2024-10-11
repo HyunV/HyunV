@@ -7,12 +7,17 @@
 
 <br>
 
+<div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunv&layout=compact" height="200"/>
 
 ![Hyun's github stats](https://github-readme-stats.vercel.app/api?username=hyunv&show_icons=true&theme=vue)
 
+</div>
+
+<div>
 <img  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyunv">
 <img  src="http://mazandi.herokuapp.com/api?handle=hyunv">
+</div>
 
 ### 🌟 detail
 
