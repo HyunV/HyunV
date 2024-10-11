@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=#ADD8E6&text=Welcome%20to%20Junho's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=65&height=250)
 
-<p align="center"><img align="center" width="280" src="./.github/text-logo-light.svg#gh-light-mode-only"/></p>
 <h3 align="center">Introduction👏</h3>
 <hr>
 
@@ -11,7 +10,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limjongheok&layout=compact" height="200"/>
 
 ![Hyun's github stats](https://github-readme-stats.vercel.app/api?username=hyunv&show_icons=true&theme=vue)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyunv)](https://solved.ac/hyunv/)
 
 <img  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyunv">
 <img  src="http://mazandi.herokuapp.com/api?handle=hyunv">
